@@ -1,2 +1,2 @@
-2x Bananas
+1x Bananas
 A Handful of Blueberries
