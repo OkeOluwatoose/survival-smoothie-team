@@ -1,6 +1,4 @@
-HEAD
 1x Bananas
 
-3x Bananas
-feature/bananas
+2x Bananas
 A Handful of Blueberries
